@@ -1,6 +1,6 @@
 import streamlit as st
 # Import the function(s) from your other file
-from my_complex_program.core_logic import run_main_process 
+from marconeapp import marcone_app.py
 
 # --- Start of your website UI ---
 st.title("My Program Shell")
